@@ -23,7 +23,7 @@ TravelBuddy is an AI-powered trip planner built with **React**, **Tailwind CSS**
 - **React**
 - **Tailwind CSS**
 - **ShadCN UI**
-- **Firebase (Firestore + Auth)**
+- **Firebase (Firestore)**
 - **Google Gemini API**
 - **Google Places API**
 
@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/travelbuddy.git
+git clone https://github.com/AyushAgrawal123/TravelBuddy---AI-Trip-Planner.git
 cd travelbuddy
 npm install
 
@@ -50,6 +50,7 @@ VITE_GOOGLE_AUTH_CLIENT_ID=your_google_auth_client_id
 Replace your_*_key with actual values.
 
 Start the Development Server
-npm run dev 
+npm run dev
 The app should now be running at http://localhost:5173
 
+```
